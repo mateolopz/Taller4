@@ -1,0 +1,13 @@
+Bug visual:
+El boton de reiniciar, el numero de jugadas y el aviso de victoria y empate aparte de aparecer en su posicion debida tambien
+aparecen en la esquina superior izquierda. No estoy seguro porque pasa pero al parecer unicamente se pueden ver, no se puede
+interactuar con ellos cuando estan en la esquina.
+
+Ejecucion:
+Al darle clic a ciertas zonas de la cuadricula aparecera ya sea una equis o un circulo que serviran para jugar triqui, una vez
+que 3 de los mismos simbolos esten seguidos, la partida acabara y se podra volver a jugar al darle al boton de reiniciar
+
+Particularidades:
+Al darle al boton de reiniciar, las equis y los circulos ya puestos de la partida pasada no desapareceran hasta que se "actualice"
+la ventana ,que en este caso, es cambiarla de tamaño (con cambiarla de tamaño me refiero a solo hacerle clic en alguna esquina 
+y mover el mouse para cambiarla de tamaño) 
